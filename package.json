@@ -1,0 +1,14 @@
+{
+  "name": "shop",
+  "version": "1.0.0",
+  "description": "List",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "siddhesh",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^2.0.2"
+  }
+}
